@@ -1,2 +1,3 @@
-# Suitmedia-project
-Project ini adalah hasil tes seleksi MAGANG BERSERTIFIKAT di Suitmedia. Menggunakan Flutter, aplikasi ini menunjukkan kemampuan saya dalam manajemen state, navigasi, dan integrasi API. Tujuannya membuktikan kesiapan saya menghadapi tantangan pengembangan software profesional di Suitmedia.
+Project ini merupakan hasil pengerjaan tes sebagai bagian dari proses seleksi untuk program MAGANG BERSERTIFIKAT di Suitmedia. Aplikasi ini mendemonstrasikan kemampuan saya dalam pengembangan mobile menggunakan Flutter, termasuk implementasi manajemen state, navigasi antar halaman, dan integrasi dengan API.
+Fitur-fitur utama meliputi autentikasi pengguna, tampilan daftar pengguna, dan detail profil individu. Project ini mencerminkan pemahaman saya tentang prinsip-prinsip desain UI/UX yang baik dan praktik pengembangan aplikasi yang efisien.
+Melalui pengerjaan project ini, saya bertujuan untuk membuktikan kesiapan saya dalam menghadapi tantangan nyata di dunia pengembangan software profesional, khususnya di lingkungan kerja seperti Suitmedia.
